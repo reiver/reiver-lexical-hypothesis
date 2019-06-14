@@ -41,3 +41,45 @@ Let's give some examples of ways in which ones person might describe the persona
 > Robert is very hardworking.
 
 Each of these examples seems to describe a _long term pattern_ to each of these individuals' behavior.
+
+## Lexical Hypothesis
+
+One attempt to understand the structure of human personality is what is called the **Lexical Hypothesis**.
+
+The **Lexical Hypothesis** is also called
+the **Fundamental Lexical Hypothesis**,
+the **Lexical Approach**, and
+the **Sedimentation Hypothesis**.
+
+The **Lexical Hypothesis** tries to understand _human personality_ by looking at _human language_.
+And usually just one _human language_.
+
+It could be a language such as:
+* the Cantonese language,
+* the Coptic language,
+* the English language,
+* the Hausa language,
+* the Korean language,
+* the Nahuatl language,
+* the Nama language,
+* the Persian language,
+* etc.
+
+Really, it could be any human language.
+
+But the most common way of pursuing the **Lexical Hypothesis** is to pick one _human language_, a perform the analysis on it.
+
+(For example, one might pick the _English language_.
+And then perform the analysis using samples of written _English language_)
+
+Once a language is picked, we then make 2 assumption:….
+
+**Assumption №1** is that, any important aspects of _human personality_ will eventually get encoded into a human language.
+
+**Assumption №2** is that, these important aspects of _human personality_ will get encoded as a single word.
+
+The **Lexical Hypothesis** is only good to the degree that these assumptions are true.
+And these are people who criticize these assumptions.
+
+Nevertheless this approach — the **Lexical Hypothesis** — is an interesting way of trying to understand _human personality_.
+And work based on this does have some degree of utility.
