@@ -83,3 +83,49 @@ And these are people who criticize these assumptions.
 
 Nevertheless this approach — the **Lexical Hypothesis** — is an interesting way of trying to understand _human personality_.
 And work based on this does have some degree of utility.
+
+## Examples Under Lexical Hypothesis
+
+Let's look at our previous examples to see how the **Lexical Hypothesis** applies to them.
+Doing so will hopefully give us better understanding of what this **Lexical Hypothesis** and its _assumptions_ really mean, in a concrete sense.
+
+> Joe is usually pretty talkative.
+
+In this example, the word “talkative” encodes an aspect of _human personality_.
+
+> Jane tends to find fault with others.
+
+In this example, the phrase “find fault” encodes an aspect of _human personality_.
+
+**Note that an analysis under the _Lexical Hypothesis_ would miss this phrase, since it is two words, instead of just one.**
+
+> Bella usually does a thorough job.
+
+In this example, the word “thorough” encodes an aspect of _human personality_.
+
+> Charlie is usually original, and often comes up with new ideas.
+
+In this example, the word “original” encodes an aspect of _human personality_.
+
+Also, in this example, the phrase “comes up with new ideas” encodes an aspect of _human personality_.
+
+**Note that here too an analysis under the _Lexical Hypothesis_ would miss this phrase, since it is five words, instead of just one.**
+
+> Tina is sometimes shy, and inhibited.
+
+In this example, the word “shy” encodes an aspect of _human personality_.
+
+Also, in this example, the word “inhibited” encodes an aspect of _human personality_.
+
+> Fred tends to be lazy.
+
+In this example, the word “lazy” encodes an aspect of _human personality_.
+
+> Robert is very hardworking.
+
+In this example, the word “hardworking” encodes an aspect of _human personality_.
+
+Although, one could also argue that in this example, it is the phrase “very hardworking” that is doing the encoding.
+
+Which, although the word “hardworking” would be detected by an analysis under the _Lexical Hypothesis_,
+**the phrase “very hardworking” would be missed by an analysis under the _Lexical Hypothesis_.**
