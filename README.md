@@ -32,7 +32,7 @@ Let's give some examples of ways in which ones person might describe the persona
 
 > Bella usually does a thorough job.
 
-> Charles is usually original, and often comes up with new ideas.
+> Charlie is usually original, and often comes up with new ideas.
 
 > Tina is sometimes shy, and inhibited.
 
