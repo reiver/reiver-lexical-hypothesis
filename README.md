@@ -93,7 +93,7 @@ However, in my experience, it is likely that other people who know Joe might say
 
 With these examples it seems as if there is some kind of structure in the way an individual will be described.
 
-For example, you are more likely to hear these about one person:
+For example, you are more likely to hear these about the same person:
 
 > Jack tends to find fault with others.
 
@@ -103,7 +103,7 @@ For example, you are more likely to hear these about one person:
 
 > Jack is sometimes rude to others.
 
-And more likely to hear these about another person:
+And more likely to hear these about the same person:
 
 > Moe is helpful and unselfish with others.
 
@@ -115,7 +115,7 @@ And more likely to hear these about another person:
 
 But if one person is described as _“cold”_, _“quarrelsome”_, or _“rude”_ by people who know them, then it is unlikely you will hear other people who know them as also describe them as _“forgiving”_, or _“unselfish”_.
 
-That is the structure we think that is there.
+That is some of the structure we think that is there.
 
 That some descriptions _go together_ with other descriptions.
 (For example: _“cold”_, _“quarrelsome”_, or _“rude”_.)
@@ -123,7 +123,7 @@ That some descriptions _go together_ with other descriptions.
 That some descriptions are sort of opposites of other descriptions.
 (For example: _“cold”_, _“quarrelsome”_, or _“rude”_ versus _“forgiving”_, or _“unselfish”_.)
 
-And some descriptions are unrelated to certain other descriptions.
+And that some descriptions are unrelated to certain other descriptions.
 (For example: _“cold”_, _“quarrelsome”_, or _“rude”_ versus _“depressed”_, _“worrisome”_, or _“nervous”_.)
 
 **We are going to try to dig into this structure in a rigorous way.
@@ -140,7 +140,7 @@ the **Fundamental Lexical Hypothesis**,
 the **Lexical Approach**, and
 the **Sedimentation Hypothesis**.
 
-The **Lexical Hypothesis** tries to understand _human personality_ by looking at a single _human language_, and tries to analyze that _human language_ for patterns in the way that humans are described in that _human language_.
+The **Lexical Hypothesis** tries to understand _human personality_ by looking at a single _human language_, and tries to analyze that _human language_ for patterns in the way that humans are described in that language.
 
 So, for example, if we picked the _English language_ as the language to study, then we would try to analyze the _English language_ for patterns in the way that humans are described.
 
@@ -177,7 +177,7 @@ So, the most common way of pursuing the **Lexical Hypothesis** is to pick one _h
 
 ## Lexical Hypothesis Assumptions
 
-(We haven't yet went into the details of what exactly this analysis is. So let's provide the background information for that now....)
+(We haven't yet went into the details of what exactly this analysis is. So let's provide the background information to prepare ourselves to later of into the details of the analysis....)
 
 Once a language is picked, we then make 2 assumption:….
 
