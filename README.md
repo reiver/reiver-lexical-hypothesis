@@ -42,6 +42,95 @@ Let's give some examples of ways in which ones person might describe the persona
 
 Each of these examples seems to describe a _long term pattern_ to each of these individuals' behavior.
 
+## Structure In Descriptions: Example №1
+
+Let's look at one of those examples again:
+
+> Bella usually does a thorough job.
+
+What happens if you asked other people who know Bella to describe her.
+
+Given that one person who knows Bella has said _“ Bella usually does a thorough job.”_, in your experience, do you it is more likely that someone else who knows Bella might say?:
+
+> Bella is a reliable worker.
+
+Or?:
+
+> Bella can be somewhat careless.
+
+In my personal experience, if one person who knows Bella says:
+
+> Bella usually does a thorough job.
+
+Then it is more likely that another person who knows Bella would say the following her:
+
+> Bella is a reliable worker.
+
+And you probably will _not_ hear any other person who knows Bella say the following about her:
+
+> Bella can be somewhat careless.
+
+(Of course, none of what we just said in this example is rigorous. But it is good to provide some examples, to try to give an intuition for what we are going to do, before we get rigorous.)
+
+## Structure In Descriptions: Example №2
+
+Let's look at another example of this:
+
+> Joe is usually pretty talkative.
+
+In my experience if people who know Joe say that about him, then it is unlikely other people who know Joe will say the following about him:
+
+> Joe tends to be quiet.
+
+However, in my experience, it is likely that other people who know Joe might say:
+
+> Joe is outgoing, and sociable.
+
+(Again, none of what we just said in this example is rigorous. But it is good to provide some examples, to try to give an intuition for what we are going to do, before we get rigorous.)
+
+
+## Structure In Descriptions
+
+With these examples it seems as if there is some kind of structure in the way an individual will be described.
+
+For example, you are more likely to hear these about one person:
+
+> Jack tends to find fault with others.
+
+> Jack tend to start quarrels with others.
+
+> Jack can be cold and aloof.
+
+> Jack is sometimes rude to others.
+
+And more likely to hear these about another person:
+
+> Moe is helpful and unselfish with others.
+
+> Moe has a forgiving nature.
+
+> Moe is generally trusting.
+
+> Moe is considerate and kind to almost everyone.
+
+But if one person is described as _“cold”_, _“quarrelsome”_, or _“rude”_ by people who know them, then it is unlikely you will hear other people who know them as also describe them as _“forgiving”_, or _“unselfish”_.
+
+That is the structure we think that is there.
+
+That some descriptions _go together_ with other descriptions.
+(For example: _“cold”_, _“quarrelsome”_, or _“rude”_.)
+
+That some descriptions are sort of opposites of other descriptions.
+(For example: _“cold”_, _“quarrelsome”_, or _“rude”_ versus _“forgiving”_, or _“unselfish”_.)
+
+And some descriptions are unrelated to certain other descriptions.
+(For example: _“cold”_, _“quarrelsome”_, or _“rude”_ versus _“depressed”_, _“worrisome”_, or _“nervous”_.)
+
+**We are going to try to dig into this structure in a rigorous way.
+But first we need to provide some background information before we do that.**
+
+So let's get into what gets called the **Lexical Hypothesis**.
+
 ## Lexical Hypothesis
 
 One attempt to understand the structure of human personality is what is called the **Lexical Hypothesis**.
