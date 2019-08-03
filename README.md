@@ -46,15 +46,20 @@ Each of these examples seems to describe a _long term pattern_ to each of these 
 
 One attempt to understand the structure of human personality is what is called the **Lexical Hypothesis**.
 
-The **Lexical Hypothesis** is also called
+The **Lexical Hypothesis** is also sometimes gets called
 the **Fundamental Lexical Hypothesis**,
 the **Lexical Approach**, and
 the **Sedimentation Hypothesis**.
 
-The **Lexical Hypothesis** tries to understand _human personality_ by looking at _human language_.
-And usually just one _human language_.
+The **Lexical Hypothesis** tries to understand _human personality_ by looking at a single _human language_, and tries to analyze that _human language_ for patterns in the way that humans are described in that _human language_.
 
-It could be a language such as:
+So, for example, if we picked the _English language_ as the language to study, then we would try to analyze the _English language_ for patterns in the way that humans are described.
+
+Alternatively, for example, if we picked the _Persian language_ as the language to study, then we would try to analyze the _Persian language_ for patterns in the way that humans are described.
+
+Really, it could be any human language.
+
+For example, it could be a language such as:
 * the Cantonese language,
 * the Coptic language,
 * the English language,
@@ -65,12 +70,11 @@ It could be a language such as:
 * the Persian language,
 * etc.
 
-Really, it could be any human language.
+Note though that it seems conceivable to me that someone could combine multiple _human languages_ together, and then perform the analysis on that combination. However, I am not aware of anyone who has done that.
 
-But the most common way of pursuing the **Lexical Hypothesis** is to pick one _human language_, a perform the analysis on it.
+So, the most common way of pursuing the **Lexical Hypothesis** is to pick one _human language_, a perform the analysis on it.
 
-(For example, one might pick the _English language_.
-And then perform the analysis using samples of written _English language_)
+(We haven't yet went into the details of what exactly this analysis is. So let's provide the background information for that now....)
 
 Once a language is picked, we then make 2 assumption:….
 
@@ -78,8 +82,8 @@ Once a language is picked, we then make 2 assumption:….
 
 **Assumption №2** is that, these important aspects of _human personality_ will get encoded as a single word.
 
-The **Lexical Hypothesis** is only good to the degree that these assumptions are true.
-And these are people who criticize these assumptions.
+The **Lexical Hypothesis** is only good (in a certain way) to the degree that these assumptions are true.
+And there are people who criticize these assumptions.
 
 Nevertheless this approach — the **Lexical Hypothesis** — is an interesting way of trying to understand _human personality_.
 And work based on this does have some degree of utility.
