@@ -50,7 +50,7 @@ Let's look at one of those examples again:
 
 What happens if you asked other people who know Bella to describe her.
 
-Given that one person who knows Bella has said _“ Bella usually does a thorough job.”_, in your experience, do you it is more likely that someone else who knows Bella might say?:
+Given that one person who knows Bella has said _“ Bella usually does a thorough job.”_, in your experience, do you think it is more likely that someone else who knows Bella might say?:
 
 > Bella is a reliable worker.
 
