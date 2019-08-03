@@ -74,6 +74,8 @@ Note though that it seems conceivable to me that someone could combine multiple 
 
 So, the most common way of pursuing the **Lexical Hypothesis** is to pick one _human language_, a perform the analysis on it.
 
+## Lexical Hypothesis Assumptions
+
 (We haven't yet went into the details of what exactly this analysis is. So let's provide the background information for that now....)
 
 Once a language is picked, we then make 2 assumption:….
