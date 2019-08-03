@@ -133,7 +133,7 @@ So let's get into what gets called the **Lexical Hypothesis**.
 
 ## Lexical Hypothesis
 
-One attempt to understand the structure of human personality is what is called the **Lexical Hypothesis**.
+One (more concrete) attempt to understand the structure of human personality is what is called the **Lexical Hypothesis**.
 
 The **Lexical Hypothesis** is also sometimes gets called
 the **Fundamental Lexical Hypothesis**,
@@ -152,12 +152,24 @@ For example, it could be a language such as:
 * the Cantonese language,
 * the Coptic language,
 * the English language,
+* the Georgian language,
 * the Hausa language,
+* the Japanese language,
 * the Korean language,
 * the Nahuatl language,
 * the Nama language,
 * the Persian language,
+* the Polish language,
+* the Riau Indonesian language,
+* the Scots language,
+* the Sindhi language,
+* the Slovak language,
+* the Tongan language,
+* the Urdu language,
+* the Uyghur language,
 * etc.
+
+(Obviously there are _a lot_ more human languages than these. Both extant, and extinct. These are just a small subset of them.)
 
 Note though that it seems conceivable to me that someone could combine multiple _human languages_ together, and then perform the analysis on that combination. However, I am not aware of anyone who has done that.
 
