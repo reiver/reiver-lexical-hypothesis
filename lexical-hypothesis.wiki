@@ -144,6 +144,7 @@ Alternatively, for example, if we picked the //Persian language// as the languag
 Really, it could be any human language.
 
 For example, it could be a language such as:
+
 • the Cantonese language,
 • the Coptic language,
 • the English language,
